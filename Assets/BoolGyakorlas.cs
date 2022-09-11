@@ -23,7 +23,7 @@ class BoolGyakorlas : MonoBehaviour
         bool b4 = a <= b;
 
         bool b5 = b == 66; //true    ==egyezik e
-        bool b6 = b != -66; //true    !=nemegyenõ?
+        bool b6 = b != -66; //true    !=nemegyenlõ?
 
         // LOGIKAI 'ÉS' &&  mûveletre példa:
         int ammo = 44;
@@ -49,7 +49,7 @@ class BoolGyakorlas : MonoBehaviour
         //random
         var i = 5;  //integer
         var g = 4.4f; //float
-        var br = "fe"; //string
+        var br = "Ez egy szöveg, azaz string"; //string
         var t = true; // bool
          //var egy szimpla változó.
 

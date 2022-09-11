@@ -3,11 +3,11 @@ using System.Collections.Generic;  //törlendõ
 using UnityEngine;
 
 class VariablePractice : MonoBehaviour   //public class: a 'public' törlendõ
-{  //az utoló kapcsoszárójelig a tartalom törlendõ
+{ 
     private void Start()
     {
 
-        // komment perjellel: / ez az egész sor komment
+        // komment perjellel: / , de kettõvel. Most ez az egész sor komment
         /*egy egy komment
          * 
          * 
